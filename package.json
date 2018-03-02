@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rainbowui-tree-select@^2.0.1",
+        "scope": null,
+        "escapedName": "rainbowui-tree-select",
+        "name": "rainbowui-tree-select",
+        "rawSpec": "^2.0.1",
+        "spec": ">=2.0.1 <3.0.0",
+        "type": "range"
+      },
+      "D:\\RainBow\\rainbow-other\\core-doc"
+    ]
+  ],
+  "_from": "rainbowui-tree-select@>=2.0.1 <3.0.0",
+  "_id": "rainbowui-tree-select@2.0.3",
+  "_inCache": true,
+  "_location": "/rainbowui-tree-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rainbowui-tree-select@^2.0.1",
+    "scope": null,
+    "escapedName": "rainbowui-tree-select",
+    "name": "rainbowui-tree-select",
+    "rawSpec": "^2.0.1",
+    "spec": ">=2.0.1 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/rainbowui-tree-select/-/rainbowui-tree-select-2.0.3.tgz",
+  "_shasum": "e33e0ac1e0a2e9d527932c0eb54a475471e75e80",
+  "_shrinkwrap": null,
+  "_spec": "rainbowui-tree-select@^2.0.1",
+  "_where": "D:\\RainBow\\rainbow-other\\core-doc",
+  "author": {
+    "name": "RainbowUI Team"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "rainbow-foundation-tools": "^2.0.0",
+    "rainbowui-core": "^2.0.0"
+  },
+  "description": "RainbowUI twotext",
+  "devDependencies": {},
+  "dist": {
+    "tarball": "http://repo.ebaotech.com:80/artifactory/api/npm/npm-all/rainbowui-tree-select/-/rainbowui-tree-select-2.0.3.tgz",
+    "shasum": "e33e0ac1e0a2e9d527932c0eb54a475471e75e80"
+  },
+  "keywords": [],
+  "main": "./src/index.js",
+  "name": "rainbowui-tree-select",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/twotext.git"
+  },
+  "version": "2.0.5"
+}
